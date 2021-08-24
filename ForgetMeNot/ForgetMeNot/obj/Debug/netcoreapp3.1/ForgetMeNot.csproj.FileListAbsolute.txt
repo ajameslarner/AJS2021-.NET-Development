@@ -1,0 +1,11 @@
+C:\Users\antho\OneDrive\Documents\Workflow\AJS2021-C#-Development\ForgetMeNot\ForgetMeNot\bin\Debug\netcoreapp3.1\ForgetMeNot.exe
+C:\Users\antho\OneDrive\Documents\Workflow\AJS2021-C#-Development\ForgetMeNot\ForgetMeNot\bin\Debug\netcoreapp3.1\ForgetMeNot.deps.json
+C:\Users\antho\OneDrive\Documents\Workflow\AJS2021-C#-Development\ForgetMeNot\ForgetMeNot\bin\Debug\netcoreapp3.1\ForgetMeNot.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\Workflow\AJS2021-C#-Development\ForgetMeNot\ForgetMeNot\bin\Debug\netcoreapp3.1\ForgetMeNot.runtimeconfig.dev.json
+C:\Users\antho\OneDrive\Documents\Workflow\AJS2021-C#-Development\ForgetMeNot\ForgetMeNot\bin\Debug\netcoreapp3.1\ForgetMeNot.dll
+C:\Users\antho\OneDrive\Documents\Workflow\AJS2021-C#-Development\ForgetMeNot\ForgetMeNot\bin\Debug\netcoreapp3.1\ForgetMeNot.pdb
+C:\Users\antho\OneDrive\Documents\Workflow\AJS2021-C#-Development\ForgetMeNot\ForgetMeNot\obj\Debug\netcoreapp3.1\ForgetMeNot.csprojAssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\Workflow\AJS2021-C#-Development\ForgetMeNot\ForgetMeNot\obj\Debug\netcoreapp3.1\ForgetMeNot.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\Workflow\AJS2021-C#-Development\ForgetMeNot\ForgetMeNot\obj\Debug\netcoreapp3.1\ForgetMeNot.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\Workflow\AJS2021-C#-Development\ForgetMeNot\ForgetMeNot\obj\Debug\netcoreapp3.1\ForgetMeNot.dll
+C:\Users\antho\OneDrive\Documents\Workflow\AJS2021-C#-Development\ForgetMeNot\ForgetMeNot\obj\Debug\netcoreapp3.1\ForgetMeNot.pdb
